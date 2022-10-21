@@ -26,6 +26,7 @@ function Employee() {
     return (  
         <div>
             <h1>Remote Employee Data</h1>
+            <p>List of employees!</p>
         </div>
     );
 }
